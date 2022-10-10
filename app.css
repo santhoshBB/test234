@@ -1,0 +1,21 @@
+
+body{
+    margin-top: 100px;
+    background-color: rgb(236, 195, 141);
+}
+.block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button{
+    background-color: rgb(233, 66, 66);
+    color: antiquewhite;
+    border: 5px;
+    margin: 10px;
+    padding: 5px;
+    
+}
+p{
+    margin: 10px
+}
